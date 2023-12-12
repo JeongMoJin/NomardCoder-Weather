@@ -10,7 +10,7 @@ import {
   ActivityIndicator,
 } from "react-native";
 import { Fontisto } from "@expo/vector-icons";
-
+// 2023 12 13 git add test
 const { width: SCREEN_WIDTH } = Dimensions.get("window");
 
 const API_KEY = `7bcfe93058cb697de719461d5eac0e1c`;
